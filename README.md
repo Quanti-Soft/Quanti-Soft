@@ -1,5 +1,4 @@
-# Nome da Empresa
-
+# QunatiSoft
 ![Logo da Empresa](link-para-o-logo)
 
 ## Sobre Nós
