@@ -1,4 +1,4 @@
-# QunatiSoft
+# QuantiSoft
 ![Logo da Empresa](link-para-o-logo)
 
 ## Sobre Nós
